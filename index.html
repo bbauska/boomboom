@@ -71,6 +71,8 @@ Released under the MIT license: http://jsbin.mit-license.org
   <p>Here we just loaded two different samples but you can load as many samples as you like...</p>
   <button id="shot1Normal" disabled=true>Shot 1</button>
    <button id="shot2Normal" disabled=true>Shot 2</button>
+   <button id="shot3Normal" disabled=true>Shot 3</button>
+   
 <script id="jsbin-javascript">
 var bufferLoader;
 var ctx;
@@ -78,6 +80,7 @@ var ctx;
 var listOfSoundSamplesURLs = [
  'https://mainline.i3s.unice.fr/mooc/shoot1.mp3', 
  'https://mainline.i3s.unice.fr/mooc/shoot2.mp3'
+ 'https://mainline.i3s.unice.fr/mooc/shoot3.mp3'
 ];
 
 window.onload = function init() {
@@ -102,6 +105,7 @@ function onSamplesDecoded(buffers){
   console.log("all samples loaded and decoded");
   shot1Normal.disabled=false;
   shot2Normal.disabled=false;
+  shot3Normal.disabled=false;
   
     shot1Normal.onclick = function(evt) {
         playSampleNormal(buffers[0]);
@@ -109,6 +113,9 @@ function onSamplesDecoded(buffers){
   
     shot2Normal.onclick = function(evt) {
         playSampleNormal(buffers[1]);
+
+    shot3Normal.onclick = function(evt) {
+        playSampleNormal(buffers[2]);
     };
 }
 
