@@ -71,10 +71,10 @@ Released under the MIT license: http://jsbin.mit-license.org
   <title>Loading multiple sound samples</title>
 </head>
 <body>
-  <p>This example uses the BufferLoader utility, you do not need to understand the details. Just look at how this example uses it.<p>
-  <p>Here we just loaded two different samples but you can load as many samples as you like...</p>
-  <button id="shot1Normal" disabled=true>Shot 1</button>
-   <button id="shot2Normal" disabled=true>Shot 2</button>
+  <p>To do on BMW - Do it Yourself list with directions.</p>
+  <button id="shot1Normal" disabled=true>Boom</button>
+   <button id="shot2Normal" disabled=true>Bang</button>
+   <button id="shot3Normal" disabled=true>Click</button>
 <script id="jsbin-javascript">
 var bufferLoader;
 var ctx;
@@ -106,6 +106,7 @@ function onSamplesDecoded(buffers){
   console.log("all samples loaded and decoded");
   shot1Normal.disabled=false;
   shot2Normal.disabled=false;
+  shot3Normal.disabled=false;
   
     shot1Normal.onclick = function(evt) {
         playSampleNormal(buffers[0]);
@@ -113,6 +114,9 @@ function onSamplesDecoded(buffers){
   
     shot2Normal.onclick = function(evt) {
         playSampleNormal(buffers[1]);
+
+    shot3Normal.onclick = function(evt) {
+        playSampleNormal(buffers[2]);
     };
 }
 
@@ -207,11 +211,13 @@ BufferLoader.prototype.load = function() {
 </script>
 </body>
 </html>
+<!----
     <a href="#">BMW Cooling System</a>
     <a href="#">BMW Suspension</a>
 	<a href="#">BMW Fuel System</a>
 	<a href="#">BMW Air Intake</a>
 	<a href="#">BMW Moonroof</a>
+	---->
   </div>
 </div>
 <head>
