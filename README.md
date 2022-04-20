@@ -5,6 +5,8 @@
 
 [Test Website](https://www.checkbot.io/)
 
+[Free for Developers](https://github.com/ripienaar/free-for-dev)
+
 JavaScript, CSS & HTML.
 Taken from W3Cx-HTML5.2x Apps & Games.  
 
