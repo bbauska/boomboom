@@ -1,7 +1,13 @@
 # boomboom
+<!------------------------------------------------------------------------------------>
+<!----------------- readme.md in github.bbauska/boomboom/primary --------------------->
+<!------------------------------------------------------------------------------------>
 
-JavaScript, CSS & HTML.  
+[Test Website](https://www.checkbot.io/)
+
+JavaScript, CSS & HTML.
 Taken from W3Cx-HTML5.2x Apps & Games.  
+
 **Watch The Complete Tutorial :** https://youtu.be/ZFQkb26UD1Y
 
 This project is for html & css practice. This is for youtube tutorial purposes.  
