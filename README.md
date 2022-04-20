@@ -12,11 +12,11 @@ Thanks, Brian
 
 Watch Now - Ignore the beginning Youtube commercial trash: [https://www.youtube.com/watch?v=ZFQkb26UD1Y](https://www.youtube.com/watch?v=ZFQkb26UD1Y)
 
-\<p align="center">  
- \<a href="https://github.com/trimstray/the-book-of-secret-knowledge">  
-   \<img src="https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/static/img/the-book-of-secret-knowledge-preview.png" alt="Master">  
- \</a>  
-\</p>
+<p align="center">  
+ <a href="https://github.com/trimstray/the-book-of-secret-knowledge">  
+   <img src="https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/static/img/the-book-of-secret-knowledge-preview.png" alt="Master">  
+ </a>  
+</p>
 
 \<p align="center">"\<i>Knowledge is powerful, be careful how you use it!\</i>"\</p>
 
