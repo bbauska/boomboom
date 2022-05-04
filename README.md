@@ -14,7 +14,7 @@ Taken from W3Cx-HTML5.2x Apps & Games.
 
 This project is for html & css practice. This is for youtube tutorial purposes.  
 It is 3 hours (plus) long, so beware & be warry.
-Copied by _Brian Bauska:_[Here 'tis:  ](https://www.youtube.com/watch?v=ZFQkb26UD1Y)
+Copied by _Brian Bauska: [Here 'tis](https://www.youtube.com/watch?v=ZFQkb26UD1Y)
 
   👍 HAVE FUN 👍  
 All the Best, Brian
@@ -58,7 +58,7 @@ All the Best, Brian
 
 <br>
 
-## :notebook_with_decorative_cover:  What is it?
+  <h2>:notebook_with_decorative_cover:  What is it?</h2>
 
 This repository is a collection of various materials and tools that I use every day in my work. It contains a lot of useful information gathered in one piece. It is an invaluable source of knowledge for me that I often look back on.
 
