@@ -14,7 +14,7 @@ Taken from W3Cx-HTML5.2x Apps & Games.
 
 This project is for html & css practice. This is for youtube tutorial purposes.  
 It is 3 hours (plus) long, so beware & be warry.
-Copied by _Brian Bauska:_[Here 'tis: ](https://www.youtube.com/watch?v=ZFQkb26UD1Y)
+Copied by _Brian Bauska:_[Here 'tis:  ](https://www.youtube.com/watch?v=ZFQkb26UD1Y)
 
   👍 HAVE FUN 👍  
 All the Best, Brian
